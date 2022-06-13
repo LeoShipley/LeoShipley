@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeoShipley
-- 🌱 I’m currently studying Python
+- 🌱 I’m currently learning Python and SQL
 
 <!---
 LeoShipley/LeoShipley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
